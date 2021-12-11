@@ -5,4 +5,4 @@ WORKDIR /app
 ADD helloworld.py .
 
 
-CMD ["python", "-u", "hellowworld.py"]
+CMD ["python", "-u", "helloworld.py"]
